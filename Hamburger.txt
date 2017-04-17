@@ -1,3 +1,7 @@
 Pão
  -Salada
+ -Carne
+ -Queijo
+ -Ovo
+Pão
 
